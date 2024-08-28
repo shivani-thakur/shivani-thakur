@@ -15,12 +15,11 @@ I'm a passionate software developer currently pursuing my M.Tech in Computer Sci
 
 - Enhancing my skills in full-stack development with a focus on the MERN stack.
 - Diving deep into Web3 development to explore decentralized applications.
-- Building and contributing to open-source projects.
 - Exploring advanced topics in computer science as part of my M.Tech program.
 
 ## 💼 Work Experience
 
-- **SAP Labs**
+- **SAP Labs** - Business Process Associate Consultant
   - Worked with SAP UI5 and the Cloud Application Programming Model.
   - Contributed to projects that enhanced my technical and teamwork skills.
   - Guided juniors and managed workflows using JIRA.
@@ -44,7 +43,7 @@ I'm a passionate software developer currently pursuing my M.Tech in Computer Sci
 
 ## ✨ Fun Fact
 
-I love solving complex coding problems and am always on the lookout for new challenges that push my boundaries. When I’m not coding, you can find me exploring the latest tech trends or contributing to community projects.
+I love solving complex coding problems and am always on the lookout for new challenges that push my boundaries. When I’m not coding, you can find me exploring the latest tech trends.
 
 ---
 
