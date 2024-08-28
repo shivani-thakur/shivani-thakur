@@ -4,12 +4,12 @@ I'm a passionate software developer currently pursuing my M.Tech in Computer Sci
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: HTML, CSS, JavaScript, C, Python(Basic)
-- **Frameworks & Libraries**: MERN Stack (MongoDB, Express.js, React.js, Node.js), SAP UI5, SAP CAP
-- **Development Tools**: VSCode, GitHub, Postman, JIRA
-- **Databases**: MongoDB, SQL
-- **Additional Skills**: Basics of Machine Learning (ML) and Natural Language Processing (NLP)
-- **Currently Learning**: Web3 Development
+- 🌐 **Languages**: HTML, CSS, JavaScript, C, Python (Basic)
+- 📚 **Frameworks & Libraries**: MERN Stack (MongoDB, Express.js, React.js, Node.js), SAP UI5, SAP CAP
+- 🖥️ **Development Tools**: VSCode, GitHub, Postman, JIRA
+- 🗄️ **Databases**: MongoDB, SQL
+- 🤖 **Additional Skills**: Basics of Machine Learning (ML) and Natural Language Processing (NLP)
+- 🚀 **Currently Learning**: Web3 Development
 
 ## 🛠 What I’m Working On
 
