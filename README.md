@@ -47,6 +47,6 @@ I love solving complex coding problems and am always on the lookout for new chal
 
 ---
 
-If you find my work interesting or want to collaborate on something exciting, feel free to connect with me on LinkedIn or reach out through my GitHub profile! If you'd like to stay updated with my latest projects and contributions, you're welcome to follow me on GitHub. Your support means a lot to me!
+If you're interested in collaborating or just want to connect, feel free to reach out on LinkedIn or follow my work on Medium and GitHub. Your support and interaction are always appreciated!
 
 
